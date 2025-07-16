@@ -48,5 +48,3 @@ Each filter supports a customizable **scale from 1 to 10**:
 
 ---
 
-## 📁 Project Structure
-
