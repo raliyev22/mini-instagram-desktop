@@ -1,0 +1,14 @@
+[Sat Feb 10 21:57:18 AZT 2024][ERROR] User chose used email
+[Sat Feb 10 21:58:05 AZT 2024][ERROR] Raul again liked Someone's photo twice 
+[Sat Feb 10 21:58:19 AZT 2024][ERROR] Raul again liked Someone's photo twice 
+[Tue Feb 13 15:35:18 AZT 2024][ERROR] User chose password whose length is less than 6
+[Tue Feb 13 15:35:23 AZT 2024][ERROR] User entered invalid email format
+[Thu Feb 15 22:37:11 TRT 2024][ERROR] User chose password whose length is less than 6
+[Thu Feb 15 22:37:19 TRT 2024][ERROR] User entered invalid email format
+[Tue Mar 12 21:38:16 TRT 2024][ERROR] User entered nonexist nickname
+[Mon May 06 13:54:10 TRT 2024][ERROR] User entered invalid email format
+[Mon May 06 13:54:23 TRT 2024][ERROR] User entered invalid email format
+[Mon May 06 13:54:49 TRT 2024][ERROR] User entered wrong nickname or password
+[Wed Nov 27 16:33:32 TRT 2024][ERROR] User entered invalid email format
+[Wed Nov 27 16:34:15 TRT 2024][ERROR] Mamed again liked Uluxan's photo twice 
+[Wed Dec 04 23:21:03 TRT 2024][ERROR] User chose password whose length is less than 6
